@@ -123,12 +123,10 @@ function Board(props){
     }
 
     function cardClicked(index){
-        console.log(index, "CARD CLICKED INDEX");
-        console.log(cards.find( ({ number }) => number === index ).clicked, "CARD CLICKED INDEX");
         if(cards.find( ({ number }) => number === index ).clicked === true){
-            console.log(cards.find( ({ number }) => number === index ).clicked, "ALREADY CLICKED");
             props.updateScore(0);
             reset();
+            return;
         }
         cards[index-1].clicked = true;
         setCards([...shuffleCards()]);
