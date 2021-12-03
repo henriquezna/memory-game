@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.2f8cd362.chunk.css",
+    "main.js": "/memory-game/static/js/main.4c777d9f.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.4c777d9f.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.fcb4cb53.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.fcb4cb53.js.map",
+    "static/js/2.356028b0.chunk.js": "/memory-game/static/js/2.356028b0.chunk.js",
+    "static/js/2.356028b0.chunk.js.map": "/memory-game/static/js/2.356028b0.chunk.js.map",
+    "static/js/3.831306e4.chunk.js": "/memory-game/static/js/3.831306e4.chunk.js",
+    "static/js/3.831306e4.chunk.js.map": "/memory-game/static/js/3.831306e4.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/main.2f8cd362.chunk.css.map": "/memory-game/static/css/main.2f8cd362.chunk.css.map",
+    "static/js/2.356028b0.chunk.js.LICENSE.txt": "/memory-game/static/js/2.356028b0.chunk.js.LICENSE.txt",
+    "static/media/Christ_the_Redeemer.4a0ab768.jpg": "/memory-game/static/media/Christ_the_Redeemer.4a0ab768.jpg",
+    "static/media/Egypt.fe2dfd3e.jpg": "/memory-game/static/media/Egypt.fe2dfd3e.jpg",
+    "static/media/Grand_Canyon.a2c349ec.jpg": "/memory-game/static/media/Grand_Canyon.a2c349ec.jpg",
+    "static/media/Great_Barrier_Reef.e2bd7e52.jpg": "/memory-game/static/media/Great_Barrier_Reef.e2bd7e52.jpg",
+    "static/media/Great_Wall.778d9e60.jpg": "/memory-game/static/media/Great_Wall.778d9e60.jpg",
+    "static/media/Machu_Picchu_Peru.dab40a5b.jpg": "/memory-game/static/media/Machu_Picchu_Peru.dab40a5b.jpg",
+    "static/media/Mt_Everest.f4f69281.jpg": "/memory-game/static/media/Mt_Everest.f4f69281.jpg",
+    "static/media/Mt_Fuji.5b86463a.jpg": "/memory-game/static/media/Mt_Fuji.5b86463a.jpg",
+    "static/media/Niagara_Falls.db325c23.jpg": "/memory-game/static/media/Niagara_Falls.db325c23.jpg",
+    "static/media/Statue-of-Liberty.04fe2905.jpg": "/memory-game/static/media/Statue-of-Liberty.04fe2905.jpg",
+    "static/media/Taj_Mahal.03def6b8.jpg": "/memory-game/static/media/Taj_Mahal.03def6b8.jpg",
+    "static/media/Victoria_Falls.0bdd31a2.jpg": "/memory-game/static/media/Victoria_Falls.0bdd31a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcb4cb53.js",
+    "static/js/2.356028b0.chunk.js",
+    "static/css/main.2f8cd362.chunk.css",
+    "static/js/main.4c777d9f.chunk.js"
+  ]
+}
