@@ -135,7 +135,6 @@ function Board(props){
 
     return(
         <div>
-            <div>CARDS</div>
             {cards.map(function(card){
                 return (<Card number={card.number} clicked={card.clicked} cardClicked={cardClicked} />)
             })}
