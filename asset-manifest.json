@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/memory-game/static/css/main.2f8cd362.chunk.css",
-    "main.js": "/memory-game/static/js/main.4c777d9f.chunk.js",
-    "main.js.map": "/memory-game/static/js/main.4c777d9f.chunk.js.map",
-    "runtime-main.js": "/memory-game/static/js/runtime-main.fcb4cb53.js",
-    "runtime-main.js.map": "/memory-game/static/js/runtime-main.fcb4cb53.js.map",
-    "static/js/2.356028b0.chunk.js": "/memory-game/static/js/2.356028b0.chunk.js",
-    "static/js/2.356028b0.chunk.js.map": "/memory-game/static/js/2.356028b0.chunk.js.map",
-    "static/js/3.831306e4.chunk.js": "/memory-game/static/js/3.831306e4.chunk.js",
-    "static/js/3.831306e4.chunk.js.map": "/memory-game/static/js/3.831306e4.chunk.js.map",
+    "main.css": "/memory-game/static/css/main.3fa12279.chunk.css",
+    "main.js": "/memory-game/static/js/main.b5181a23.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.b5181a23.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.9a72cd42.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.9a72cd42.js.map",
+    "static/js/2.b552b8b6.chunk.js": "/memory-game/static/js/2.b552b8b6.chunk.js",
+    "static/js/2.b552b8b6.chunk.js.map": "/memory-game/static/js/2.b552b8b6.chunk.js.map",
+    "static/js/3.8a635d0d.chunk.js": "/memory-game/static/js/3.8a635d0d.chunk.js",
+    "static/js/3.8a635d0d.chunk.js.map": "/memory-game/static/js/3.8a635d0d.chunk.js.map",
     "index.html": "/memory-game/index.html",
-    "static/css/main.2f8cd362.chunk.css.map": "/memory-game/static/css/main.2f8cd362.chunk.css.map",
-    "static/js/2.356028b0.chunk.js.LICENSE.txt": "/memory-game/static/js/2.356028b0.chunk.js.LICENSE.txt",
+    "static/css/main.3fa12279.chunk.css.map": "/memory-game/static/css/main.3fa12279.chunk.css.map",
+    "static/js/2.b552b8b6.chunk.js.LICENSE.txt": "/memory-game/static/js/2.b552b8b6.chunk.js.LICENSE.txt",
     "static/media/Christ_the_Redeemer.4a0ab768.jpg": "/memory-game/static/media/Christ_the_Redeemer.4a0ab768.jpg",
     "static/media/Egypt.fe2dfd3e.jpg": "/memory-game/static/media/Egypt.fe2dfd3e.jpg",
     "static/media/Grand_Canyon.a2c349ec.jpg": "/memory-game/static/media/Grand_Canyon.a2c349ec.jpg",
@@ -26,9 +26,9 @@
     "static/media/Victoria_Falls.0bdd31a2.jpg": "/memory-game/static/media/Victoria_Falls.0bdd31a2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fcb4cb53.js",
-    "static/js/2.356028b0.chunk.js",
-    "static/css/main.2f8cd362.chunk.css",
-    "static/js/main.4c777d9f.chunk.js"
+    "static/js/runtime-main.9a72cd42.js",
+    "static/js/2.b552b8b6.chunk.js",
+    "static/css/main.3fa12279.chunk.css",
+    "static/js/main.b5181a23.chunk.js"
   ]
 }
