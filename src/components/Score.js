@@ -23,6 +23,7 @@ export const Score = () => {
 
     const resetScore = () => {
         setScore(0);
+        alert("Try Again");
     }
 
     return [score, highScore, updateScore];

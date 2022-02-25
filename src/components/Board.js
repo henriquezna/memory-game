@@ -1,6 +1,6 @@
-import { logRoles } from "@testing-library/react";
 import React, { useState } from "react";
 import Card from './Card';
+import { StyledBoard } from './styles/StyledBoard';
 
 function Board(props){
     const [cards, setCards] = useState([
@@ -134,11 +134,11 @@ function Board(props){
     }
 
     return(
-        <div>
+        <StyledBoard>
             {cards.map(function(card){
                 return (<Card number={card.number} clicked={card.clicked} cardClicked={cardClicked} />)
             })}
-        </div>
+        </StyledBoard>
     );
 }
 

@@ -32,7 +32,7 @@ const imgArray = [
 function Card(props){
     return(
         <StyledCard onClick={() => props.cardClicked(props.number)} >
-            <img src={imgArray[props.number - 1]} height="500" width="500" alt={props.number} />
+            <img src={imgArray[props.number - 1]} height="300" width="300" alt={props.number} />
         </StyledCard>
     );
 }
